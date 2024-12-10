@@ -24,7 +24,7 @@ const projects = [
   {
     title: "M-E-R-N Chat",
     description: "A Real-time chat application using MERN stack",
-    image: "src/thumbnails/chat.png",
+    image: "public/chat.png",
     tech: [
       "React",
       "Express.js",
