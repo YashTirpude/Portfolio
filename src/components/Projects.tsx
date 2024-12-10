@@ -7,7 +7,7 @@ const projects = [
   {
     title: " Twitter / X clone",
     description: "A full-stack web application built with React and Node.js",
-    image: "public/twitter.png",
+    image: "/twitter.png",
     tech: [
       "React",
       "Express.js",
