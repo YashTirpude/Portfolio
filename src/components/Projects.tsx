@@ -7,7 +7,7 @@ const projects = [
   {
     title: " Twitter / X clone",
     description: "A full-stack web application built with React and Node.js",
-    image: "src/thumbnails/twitter.png",
+    image: "public/twitter.png",
     tech: [
       "React",
       "Express.js",
@@ -24,7 +24,7 @@ const projects = [
   {
     title: "M-E-R-N Chat",
     description: "A Real-time chat application using MERN stack",
-    image: "src/chat.png",
+    image: "src/chat.jpg",
     tech: [
       "React",
       "Express.js",
@@ -60,7 +60,7 @@ const projects = [
     title: "Goal Tracking Web Application",
     description:
       "A web-based goal tracking application to monitor daily and weekly goals.",
-    image: "src/thumbnails/goal-tracker.png",
+    image: "goal-tracker.png",
     tech: ["React", "TypeScript", "Redux", "Redux Toolkit", "Material UI"],
     liveLink: "https://goal-tracker-blue.vercel.app/",
     githubLink: "https://github.com/YashTirpude/Goal-Tracker",
