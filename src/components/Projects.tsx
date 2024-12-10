@@ -24,7 +24,7 @@ const projects = [
   {
     title: "M-E-R-N Chat",
     description: "A Real-time chat application using MERN stack",
-    image: "src/chat.jpg",
+    image: "/chat.jpg",
     tech: [
       "React",
       "Express.js",
@@ -41,7 +41,7 @@ const projects = [
     title: "React Store",
     description:
       "A product data store with comprehensive data filtration features ",
-    image: "src/thumbnails/store.png",
+    image: "/store.png",
     tech: ["React", "Typescript", "Axios", "Tailwind CSS", "Daisy ui"],
     liveLink:
       "https://react-store-cnlb2fpv1-yashs-projects-d8eb281f.vercel.app/",
@@ -51,7 +51,7 @@ const projects = [
     title: "Notes App",
     description:
       "An interactive and user-friendly note-taking using modern web technologies",
-    image: "src/thumbnails/notes.png",
+    image: "/notes.png",
     tech: ["React", "TypeScript", "Tailwind CSS", "DaisyUI", "Framer Motion"],
     liveLink: "https://advance-notes-five.vercel.app/",
     githubLink: "https://github.com/YashTirpude/Advance-Notes",
@@ -60,7 +60,7 @@ const projects = [
     title: "Goal Tracking Web Application",
     description:
       "A web-based goal tracking application to monitor daily and weekly goals.",
-    image: "goal-tracker.png",
+    image: "/goal-tracker.png",
     tech: ["React", "TypeScript", "Redux", "Redux Toolkit", "Material UI"],
     liveLink: "https://goal-tracker-blue.vercel.app/",
     githubLink: "https://github.com/YashTirpude/Goal-Tracker",
