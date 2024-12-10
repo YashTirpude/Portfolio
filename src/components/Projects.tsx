@@ -47,6 +47,24 @@ const projects = [
       "https://react-store-cnlb2fpv1-yashs-projects-d8eb281f.vercel.app/",
     githubLink: "https://github.com/YashTirpude/React-store",
   },
+  {
+    title: "Notes App",
+    description:
+      "An interactive and user-friendly note-taking using modern web technologies",
+    image: "src/thumbnails/notes.png",
+    tech: ["React", "TypeScript", "Tailwind CSS", "DaisyUI", "Framer Motion"],
+    liveLink: "https://advance-notes-five.vercel.app/",
+    githubLink: "https://github.com/YashTirpude/Advance-Notes",
+  },
+  {
+    title: "Goal Tracking Web Application",
+    description:
+      "A web-based goal tracking application to monitor daily and weekly goals.",
+    image: "src/thumbnails/goal-tracker.png",
+    tech: ["React", "TypeScript", "Redux", "Redux Toolkit", "Material UI"],
+    liveLink: "https://goal-tracker-blue.vercel.app/",
+    githubLink: "https://github.com/YashTirpude/Goal-Tracker",
+  },
 ];
 
 const Projects = () => {

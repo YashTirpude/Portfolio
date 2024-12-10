@@ -1,6 +1,6 @@
-import React from 'react';
-import { motion } from 'framer-motion';
-import { LucideIcon } from 'lucide-react';
+import React from "react";
+import { motion } from "framer-motion";
+import { LucideIcon } from "lucide-react";
 
 interface SkillCardProps {
   title: string;
@@ -11,7 +11,7 @@ interface SkillCardProps {
   index: number;
 }
 
-const SkillCard: React.FC<SkillCardProps> = ({ title, skills, index }) => {
+const SkillCard: React.FC<SkillCardProps> = ({ title, skills }) => {
   return (
     <div className="bg-gray-800 rounded-lg p-6 hover:bg-gray-750 transition-colors">
       <h3 className="text-xl font-semibold text-white mb-4">{title}</h3>
