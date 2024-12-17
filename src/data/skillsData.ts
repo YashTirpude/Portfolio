@@ -39,7 +39,7 @@ export const skillsData: Skill[] = [
   { name: "JWT", icon: Package, color: "#000000" },
   { name: "Git", icon: GitBranch, color: "#F05032" },
   { name: "GitHub", icon: GitBranch, color: "#181717" },
-  { name: "Redux", icon: Workflow, color: "#764ABC" },
+
   { name: "Redux Toolkit", icon: Workflow, color: "#764ABC" },
   { name: "Zustand", icon: Boxes, color: "#443E38" },
   { name: "Cloudinary", icon: Cloud, color: "#3448C5" },
