@@ -6,12 +6,10 @@ import {
   Database,
   Server,
   GitBranch,
-  Globe,
   Package,
   Layout,
   Boxes,
   Workflow,
-  Cloud,
   MessageSquare,
 } from "lucide-react";
 import { LucideIcon } from "lucide-react";
@@ -28,6 +26,7 @@ export const skillsData: Skill[] = [
   { name: "TypeScript", icon: FileCode2, color: "#3178C6" },
   { name: "JavaScript", icon: FileCode2, color: "#F7DF1E" },
   { name: "React.js", icon: Code2, color: "#61DAFB" },
+  { name: "Next.js", icon: Blocks, color: "#000000" },
   { name: "Node.js", icon: Server, color: "#339933" },
   { name: "Express.js", icon: Server, color: "#000000" },
   { name: "MongoDB", icon: Database, color: "#47A248" },
@@ -42,7 +41,4 @@ export const skillsData: Skill[] = [
 
   { name: "Redux Toolkit", icon: Workflow, color: "#764ABC" },
   { name: "Zustand", icon: Boxes, color: "#443E38" },
-  { name: "Cloudinary", icon: Cloud, color: "#3448C5" },
-  { name: "REST API", icon: Globe, color: "#FF5733" },
-  { name: "Next.js", icon: Blocks, color: "#000000" },
 ];
