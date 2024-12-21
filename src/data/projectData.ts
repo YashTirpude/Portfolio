@@ -73,7 +73,7 @@ export const projectsData: Project[] = [
     description:
       "A web-based goal tracking application to monitor daily and weekly goals.",
     longDescription:
-      "A comprehensive task management system built with the MERN stack. Features include task creation, assignment, real-time updates, team collaboration, and detailed analytics.",
+      "Elevate your productivity with our sophisticated Goal Tracking Web Application, meticulously designed to streamline the monitoring of daily and weekly objectives.",
     image: "/goal-tracker.png",
     tech: [
       { name: "React.js", color: "bg-cyan-500" },
