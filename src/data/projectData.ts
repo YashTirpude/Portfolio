@@ -63,9 +63,8 @@ export const projectsData: Project[] = [
       { name: "JSON web tokens", color: "bg-teal-500" },
       { name: "Tailwind CSS", color: "bg-teal-500" },
     ],
-    liveLink:
-      "https://react-store-cnlb2fpv1-yashs-projects-d8eb281f.vercel.app/",
-    githubLink: "https://github.com/YashTirpude/React-store",
+    liveLink: "https://mern-chat-1kh6.onrender.com",
+    githubLink: "https://github.com/YashTirpude/Mern-Chat",
   },
   {
     title: "Notes App",
