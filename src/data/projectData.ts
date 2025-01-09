@@ -52,7 +52,7 @@ export const projectsData: Project[] = [
     title: "Real-Time Chat App",
     description: "A Real-time chat application using MERN stack",
     longDescription:
-      "A real-time chat application built with React and MongoDB. Features include instant messaging, user presence detection, and message encryption.",
+      "Designed and built a real-time chat application using React for the frontend and MongoDB for database management. Implemented instant messaging with WebSockets for seamless communication, along with user presence detection to display real-time online status.The platform offers a responsive interface for smooth user experience across devices and supports scalable multi-user interactions.",
     image: "/chat.png",
     tech: [
       { name: "React.js", color: "bg-cyan-500" },
