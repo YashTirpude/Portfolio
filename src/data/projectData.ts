@@ -28,6 +28,23 @@ export const projectsData: Project[] = [
       { name: "Cloudinary", color: "bg-teal-500" },
       { name: "Tailwind CSS", color: "bg-teal-500" },
     ],
+    liveLink: "https://twitter-clone-57i7.onrender.com",
+    githubLink: "https://github.com/YashTirpude/Twitter-Clone",
+  },
+  {
+    title: "React Store (E-commerce Product Explorer)",
+    description:
+      "An e-commerce platform with advanced search and filtering features, optimized for mobile devices using React.js and Tailwind CSS",
+
+    longDescription:
+      "React Store is a fully functional e-commerce platform using React.js and TypeScript, featuring advanced search and filtering capabilities for an enhanced user experience. Integrated Axios to fetch real-time product data and implemented a responsive design with Tailwind CSS, ensuring seamless usability across devices. Optimized the interface to increase user engagement on mobile by 40% and provided detailed product views for better customer decision-making.",
+    image: "/twitter.png",
+    tech: [
+      { name: "React.js", color: "bg-black" },
+      { name: "TypeScript", color: "bg-green-600" },
+      { name: "Axios", color: "bg-blue-400" },
+      { name: "Tailwind CSS", color: "bg-teal-500" },
+    ],
     liveLink: "https://mern-chat-1kh6.onrender.com",
     githubLink: "https://github.com/YashTirpude/Mern-Chat",
   },
