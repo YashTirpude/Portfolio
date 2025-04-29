@@ -12,6 +12,26 @@ export interface Project {
 
 export const projectsData: Project[] = [
   {
+    title: "Job Application Tracker",
+    description: "A full-stack web application built with React and Node.js",
+    longDescription:
+      "Streamline your job search with this full-stack Job Application Tracker, built using React and Node.js. The application allows users to manage their job applications efficiently, featuring real-time status updates, resume uploads, and infinite scrolling for seamless navigation.",
+    image: "/job-tracker.png",
+    tech: [
+      { name: "React.js", color: "bg-black" },
+      { name: "Node.js", color: "bg-blue-600" },
+      { name: "MongoDB", color: "bg-purple-600" },
+      { name: "Express.js", color: "bg-teal-500" },
+      { name: "Redux", color: "bg-purple-500" },
+      { name: "Tailwind CSS", color: "bg-teal-500" },
+      { name: "Framer Motion", color: "bg-pink-500" },
+      { name: "Supabase", color: "bg-teal-500" },
+      { name: "Axios", color: "bg-blue-400" },
+    ],
+    liveLink: "https://job-application-tracker-orcin.vercel.app/applications",
+    githubLink: "https://github.com/YashTirpude/job-application-tracker",
+  },
+  {
     title: " Twitter / X clone",
     description: "A full-stack web application built with React and Node.js",
 
