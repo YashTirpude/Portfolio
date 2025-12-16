@@ -16,7 +16,7 @@ const Hero = () => {
             transition={{ duration: 0.5, delay: 0.2 }}
             className="text-3xl sm:text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600"
           >
-            Web Developer
+            Full Stack Developer
           </motion.h1>
           <motion.p
             initial={{ opacity: 0, y: -20 }}
@@ -24,10 +24,10 @@ const Hero = () => {
             transition={{ duration: 0.5, delay: 0.4 }}
             className="mt-6 text-xl sm:text-2xl text-gray-300 max-w-3xl mx-auto"
           >
-            {" "}
-            I’m a web developer specializing in building and designing engaging
-            and responsive digital experiences. Crafting beautiful and
-            functional web experiences with modern technologies
+            I build fast, scalable web applications that users love and
+            businesses depend on. From optimizing performance by 80%+ to leading
+            cross-functional teams of 5+, I deliver solutions that create
+            measurable impact.
           </motion.p>
 
           <motion.div

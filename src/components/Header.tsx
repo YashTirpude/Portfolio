@@ -13,15 +13,17 @@ const Header = () => {
           </div>
 
           <nav className="hidden md:flex space-x-8">
-            {["About", "Projects", "Skills", "Contact"].map((item) => (
-              <a
-                key={item}
-                href={`#${item.toLowerCase()}`}
-                className="text-gray-300 hover:text-white transition-colors"
-              >
-                {item}
-              </a>
-            ))}
+            {["About", "Projects", "Experience", "Skills", "Contact"].map(
+              (item) => (
+                <a
+                  key={item}
+                  href={`#${item.toLowerCase()}`}
+                  className="text-gray-300 hover:text-white transition-colors"
+                >
+                  {item}
+                </a>
+              )
+            )}
           </nav>
 
           <div className="hidden md:flex items-center space-x-4">
