@@ -52,24 +52,6 @@ export const projectsData: Project[] = [
     liveLink: "https://job-application-tracker-orcin.vercel.app/applications",
     githubLink: "https://github.com/YashTirpude/job-application-tracker",
   },
-
-  {
-    title: "React Store (E-commerce Product Explorer)",
-    description:
-      "An e-commerce platform with advanced search and filtering features, optimized for mobile devices using React.js and Tailwind CSS",
-
-    longDescription:
-      "React Store is a fully functional e-commerce platform using React.js and TypeScript, featuring advanced search and filtering capabilities for an enhanced user experience. Integrated Axios to fetch real-time product data and implemented a responsive design with Tailwind CSS, ensuring seamless usability across devices. Optimized the interface to increase user engagement on mobile by 40% and provided detailed product views for better customer decision-making.",
-    image: "/store.png",
-    tech: [
-      { name: "React.js", color: "bg-black" },
-      { name: "TypeScript", color: "bg-green-600" },
-      { name: "Axios", color: "bg-blue-400" },
-      { name: "Tailwind CSS", color: "bg-teal-500" },
-    ],
-    liveLink: "https://react-store-umber.vercel.app/",
-    githubLink: "https://github.com/YashTirpude/React-store",
-  },
   {
     title: "Real-Time Chat App",
     description: "A Real-time chat application using MERN stack",
@@ -88,39 +70,58 @@ export const projectsData: Project[] = [
     liveLink: "https://mern-chat-1kh6.onrender.com",
     githubLink: "https://github.com/YashTirpude/Mern-Chat",
   },
-  {
-    title: "Notes App",
-    description:
-      "An interactive and user-friendly note-taking using modern web technologies",
-    longDescription:
-      "Easily keep track of your thoughts, ideas, and tasks with our user-friendly Notes App. Built with cutting-edge web technologies, it offers seamless note-taking and organization, making your life a little bit simpler.",
-    image: "/notes.png",
-    tech: [
-      { name: "TypeScript", color: "bg-green-600" },
-      { name: "Framer Motion", color: "bg-gray-600" },
-      { name: "React.js", color: "bg-cyan-500" },
-      { name: "Node.js", color: "bg-green-500" },
-      { name: "Tailwind CSS", color: "bg-black" },
-      { name: "DaisyUI", color: "bg-black" },
-    ],
-    liveLink: "https://advance-notes-five.vercel.app/",
-    githubLink: "https://github.com/YashTirpude/Advance-Notes",
-  },
-  {
-    title: "Goal Tracking Web Application",
-    description:
-      "A web-based goal tracking application to monitor daily and weekly goals.",
-    longDescription:
-      "Elevate your productivity with our sophisticated Goal Tracking Web Application, meticulously designed to streamline the monitoring of daily and weekly objectives.",
-    image: "/goal-tracker.png",
-    tech: [
-      { name: "React.js", color: "bg-cyan-500" },
-      { name: "TypeScript", color: "bg-green-600" },
-      { name: "Redux Toolkit", color: "bg-green-500" },
-      { name: "Material UI", color: "bg-black" },
-    ],
 
-    liveLink: "https://goal-tracker-blue.vercel.app/",
-    githubLink: "https://github.com/YashTirpude/Goal-Tracker",
+  {
+    title: "React Store (E-commerce Product Explorer)",
+    description:
+      "An e-commerce platform with advanced search and filtering features, optimized for mobile devices using React.js and Tailwind CSS",
+
+    longDescription:
+      "React Store is a fully functional e-commerce platform using React.js and TypeScript, featuring advanced search and filtering capabilities for an enhanced user experience. Integrated Axios to fetch real-time product data and implemented a responsive design with Tailwind CSS, ensuring seamless usability across devices. Optimized the interface to increase user engagement on mobile by 40% and provided detailed product views for better customer decision-making.",
+    image: "/store.png",
+    tech: [
+      { name: "React.js", color: "bg-black" },
+      { name: "TypeScript", color: "bg-green-600" },
+      { name: "Axios", color: "bg-blue-400" },
+      { name: "Tailwind CSS", color: "bg-teal-500" },
+    ],
+    liveLink: "https://react-store-umber.vercel.app/",
+    githubLink: "https://github.com/YashTirpude/React-store",
   },
+
+  // {
+  //   title: "Notes App",
+  //   description:
+  //     "An interactive and user-friendly note-taking using modern web technologies",
+  //   longDescription:
+  //     "Easily keep track of your thoughts, ideas, and tasks with our user-friendly Notes App. Built with cutting-edge web technologies, it offers seamless note-taking and organization, making your life a little bit simpler.",
+  //   image: "/notes.png",
+  //   tech: [
+  //     { name: "TypeScript", color: "bg-green-600" },
+  //     { name: "Framer Motion", color: "bg-gray-600" },
+  //     { name: "React.js", color: "bg-cyan-500" },
+  //     { name: "Node.js", color: "bg-green-500" },
+  //     { name: "Tailwind CSS", color: "bg-black" },
+  //     { name: "DaisyUI", color: "bg-black" },
+  //   ],
+  //   liveLink: "https://advance-notes-five.vercel.app/",
+  //   githubLink: "https://github.com/YashTirpude/Advance-Notes",
+  // },
+  // {
+  //   title: "Goal Tracking Web Application",
+  //   description:
+  //     "A web-based goal tracking application to monitor daily and weekly goals.",
+  //   longDescription:
+  //     "Elevate your productivity with our sophisticated Goal Tracking Web Application, meticulously designed to streamline the monitoring of daily and weekly objectives.",
+  //   image: "/goal-tracker.png",
+  //   tech: [
+  //     { name: "React.js", color: "bg-cyan-500" },
+  //     { name: "TypeScript", color: "bg-green-600" },
+  //     { name: "Redux Toolkit", color: "bg-green-500" },
+  //     { name: "Material UI", color: "bg-black" },
+  //   ],
+
+  //   liveLink: "https://goal-tracker-blue.vercel.app/",
+  //   githubLink: "https://github.com/YashTirpude/Goal-Tracker",
+  // },
 ];
