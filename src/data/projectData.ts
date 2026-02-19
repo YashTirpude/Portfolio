@@ -18,7 +18,7 @@ export const projectsData: Project[] = [
 
     longDescription:
       "Tracking your monthly personal and professional budgets made easy with Automated Budget Analysis, AI Integrated bill scanner, and Expense Tracking.",
-    image: "/twitter.png",
+    image: "/budget-tracker.png",
     tech: [
       { name: "Next.js", color: "bg-black" },
       { name: "Gemini AI", color: "bg-teal-500" },
