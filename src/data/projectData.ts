@@ -12,6 +12,26 @@ export interface Project {
 
 export const projectsData: Project[] = [
   {
+    title: "Trackify (Budget tracking app)",
+    description:
+      "An AI-powered Budget management platform that helps you track, analyze, and optimize your expenses with real-time insights.",
+
+    longDescription:
+      "Tracking your monthly personal and professional budgets made easy with Automated Budget Analysis, AI Integrated bill scanner, and Expense Tracking.",
+    image: "/twitter.png",
+    tech: [
+      { name: "Next.js", color: "bg-black" },
+      { name: "Gemini AI", color: "bg-teal-500" },
+      { name: "Node.js", color: "bg-blue-600" },
+      { name: "Supabase", color: "bg-purple-600" },
+      { name: "Prisma", color: "bg-blue-400" },
+      { name: "TypeScript", color: "bg-teal-500" },
+      { name: "Clerk", color: "bg-teal-500" },
+    ],
+    liveLink: "https://budget-tracker-rose.vercel.app/",
+    githubLink: "https://github.com/YashTirpude/Budget-Tracker",
+  },
+  {
     title: " Twitter / X clone",
     description: "A full-stack web application built with React and Node.js",
 
