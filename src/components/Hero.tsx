@@ -16,7 +16,7 @@ const Hero = () => {
             transition={{ duration: 0.5, delay: 0.2 }}
             className="text-3xl sm:text-5xl font-bold text-transparent bg-clip-text bg-gradient-to-r from-purple-400 to-pink-600"
           >
-            Full Stack Developer
+            Web Developer
           </motion.h1>
           <motion.p
             initial={{ opacity: 0, y: -20 }}
