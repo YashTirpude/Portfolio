@@ -26,8 +26,8 @@ export const projectsData: Project[] = [
 
       { name: "Cron-job", color: "bg-teal-500" },
 
-      { name: "Node.js", color: "bg-blue-600" },
-      { name: "Supabase", color: "bg-purple-600" },
+      { name: "Node.js", color: "bg-blue-500" },
+      { name: "Supabase", color: "bg-purple-500" },
       { name: "Prisma", color: "bg-blue-400" },
       { name: "TypeScript", color: "bg-teal-500" },
       { name: "Clerk", color: "bg-teal-500" },
