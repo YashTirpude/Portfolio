@@ -26,8 +26,8 @@ const Hero = () => {
           >
             I build fast, scalable web applications that users love and
             businesses depend on. From optimizing performance by 80%+ to leading
-            cross-functional teams of 5+, I deliver solutions that create
-            measurable impact.
+            cross-functional teams, I deliver solutions that create measurable
+            impact.
           </motion.p>
 
           <motion.div
