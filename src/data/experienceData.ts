@@ -31,6 +31,7 @@ export const experienceData: Experience[] = [
     ],
     technologies: [
       "React.js",
+      "TypeScript",
       "JavaScript (ES6+)",
       "Node.js",
       "Express.js",
@@ -43,6 +44,7 @@ export const experienceData: Experience[] = [
       "Chart.js",
       "Git",
       "Postman",
+      "automation",
     ],
   },
 ];

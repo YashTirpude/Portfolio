@@ -44,8 +44,8 @@ export const projectsData: Project[] = [
     image: "/twitter.png",
     tech: [
       { name: "React.js", color: "bg-black" },
-      { name: "Node.js", color: "bg-blue-600" },
-      { name: "MongoDB", color: "bg-purple-600" },
+      { name: "Node.js", color: "bg-blue-500" },
+      { name: "MongoDB", color: "bg-purple-500" },
       { name: "Socket.io", color: "bg-blue-400" },
       { name: "Express.js", color: "bg-teal-500" },
       { name: "JSON web tokens", color: "bg-teal-500" },
@@ -63,8 +63,8 @@ export const projectsData: Project[] = [
     image: "/job-tracker.png",
     tech: [
       { name: "React.js", color: "bg-black" },
-      { name: "Node.js", color: "bg-blue-600" },
-      { name: "MongoDB", color: "bg-purple-600" },
+      { name: "Node.js", color: "bg-blue-500" },
+      { name: "MongoDB", color: "bg-purple-500" },
       { name: "Express.js", color: "bg-teal-500" },
       { name: "Google OAuth", color: "bg-black-500" },
       { name: "Redux", color: "bg-purple-500" },
@@ -84,7 +84,7 @@ export const projectsData: Project[] = [
     image: "/chat.png",
     tech: [
       { name: "React.js", color: "bg-cyan-500" },
-      { name: "MongoDB", color: "bg-purple-600" },
+      { name: "MongoDB", color: "bg-purple-500" },
       { name: "Express.js", color: "bg-teal-500" },
       { name: "Socket.io", color: "bg-blue-400" },
       { name: "WebSocket", color: "bg-green-500" },
