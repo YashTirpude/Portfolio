@@ -12,7 +12,7 @@ export interface Project {
 
 export const projectsData: Project[] = [
   {
-    title: "Trackify (Budget tracking app)",
+    title: "Trackify (Finance management with AI)",
     description:
       "An AI-powered Budget management platform that helps you track, analyze, and optimize your expenses with real-time insights.",
 
@@ -22,6 +22,10 @@ export const projectsData: Project[] = [
     tech: [
       { name: "Next.js", color: "bg-black" },
       { name: "Gemini AI", color: "bg-teal-500" },
+      { name: "Arcjet", color: "bg-teal-500" },
+
+      { name: "Cron-job", color: "bg-teal-500" },
+
       { name: "Node.js", color: "bg-blue-600" },
       { name: "Supabase", color: "bg-purple-600" },
       { name: "Prisma", color: "bg-blue-400" },
