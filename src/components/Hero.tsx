@@ -103,7 +103,7 @@ const Hero = () => {
             transition={{ duration: 0.5, delay: 0.3 }}
             className="mt-4 text-xl sm:text-3xl font-medium text-transparent bg-clip-text bg-gradient-to-r from-purple-400 via-pink-500 to-purple-600"
           >
-            Full Stack Developer
+            Web Developer
           </motion.h2>
 
           <motion.p
@@ -112,9 +112,8 @@ const Hero = () => {
             transition={{ duration: 1, delay: 0.6 }}
             className="mt-6 text-lg sm:text-xl text-gray-400 max-w-2xl mx-auto leading-relaxed"
           >
-            Building high-performance applications with the{" "}
-            <span className="text-purple-400">T3 Stack</span>. I transform
-            complex data into seamless, interactive experiences.
+            Building high-performance applications. I transform complex data
+            into seamless, interactive experiences.
           </motion.p>
 
           <motion.div
